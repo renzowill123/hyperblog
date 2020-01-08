@@ -1,6 +1,6 @@
-body{
+#container{
+    border: solid 1px pink;
     text-align: center;
-    font-family: arial;
-    color: brown;
-    
+    padding: 1em 5em;
+    margin: 0 50px;
 }
