@@ -4,3 +4,8 @@
     padding: 1em 5em;
     margin: 0 50px;
 }
+#cabecera{
+    background-color: royalblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
