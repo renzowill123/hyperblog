@@ -1,13 +1,15 @@
 #container{
-    border: solid 1px pink;
+    border: solid 2px turquoise;
     text-align: center;
     padding: 1em 5em;
     margin: 0 50px;
 }
 
 
+
 #cabecera{
-    background-color: royalblue;
+    background-color:tomato;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: x-large;
+    
 }
